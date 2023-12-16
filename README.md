@@ -29,3 +29,8 @@ I'm Brahma, a passionate and versatile developer with a keen interest in Machine
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=BrahmaBorude&show_icons=true&theme=transparent"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahmaBorude&size_weight=0.5&count_weight=0.5"/>
+<br>
+
+<a href="https://twitter.com/Brahma_2005">
+ <img align="right" width=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+<a/>
