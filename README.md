@@ -1,5 +1,5 @@
 
-I'm Brahma, a passionate developer with a keen interest in Machine Learning and AI<br><hr>
+Diving deep into the world of computer vision and large language models.<br><hr>
 let's connect:
 <a href="https://twitter.com/Brahma_2005">
  <img  width=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
