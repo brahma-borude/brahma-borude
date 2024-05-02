@@ -7,5 +7,5 @@ let's connect:
  
 ### My GitHub Stats
 
-<img width=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahmaBorude&size_weight=0.5&count_weight=0.5"/>
+<img width=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahma-borude&size_weight=0.5&count_weight=0.5"/>
 <br/>
