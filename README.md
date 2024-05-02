@@ -1,5 +1,5 @@
 
-I'm Brahma, a passionate developer with a keen interest in Machine Learning, AI, and Full Stack Development. I thrive on turning complex problems into elegant, efficient, and user-friendly solutions.<br><hr>
+I'm Brahma, a passionate developer with a keen interest in Machine Learning and AI<br><hr>
 let's connect:
 <a href="https://twitter.com/Brahma_2005">
  <img  width=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
