@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brahma-borude&show_icons=true&locale=en&layout=compact" alt="brahma-bourde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brahma-borude&show_icons=true&locale=en" alt="brahma-bourde" /></p>
+<p>&nbsp;<img width= 330 align="center" src="https://github-readme-stats.vercel.app/api?username=brahma-borude&show_icons=true&locale=en" alt="brahma-bourde" /></p>
