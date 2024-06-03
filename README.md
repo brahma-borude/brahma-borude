@@ -23,6 +23,6 @@
                  <!--<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a> -->
                  <!--<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a> </p>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brahma-borude&show_icons=true&locale=en&layout=compact" alt="brahma-bourde" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brahma-borude&show_icons=true&locale=en&layout=compact&bg_color=0d1117&border_color=292e36&text_color=ebecec" alt="brahma-bourde" /></p>
 
-<p>&nbsp;<img width= 330 align="center" src="https://github-readme-stats.vercel.app/api?username=brahma-borude&show_icons=true&locale=en" alt="brahma-bourde" /></p>
+<p>&nbsp;<img width= 330 align="center" src="https://github-readme-stats.vercel.app/api?username=brahma-borude&show_icons=true&locale=en&bg_color=0d1117&border_color=292e36&text_color=ebecec"" alt="brahma-bourde" /></p>
