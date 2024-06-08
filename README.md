@@ -1,5 +1,4 @@
 
-<h3 align="center">Diving deep into the world of computer vision and large language models.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
